@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Nunito"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/reset.css" />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+
+  <body>
+    <!-- モーダル -->
+    <div class="modal">
+      <div class="modal__content">
+        <div class="modal__image">
+          <img src="images/stamp10.png" width="160" height="160" alt="" />
+        </div>
+
+        <div class="modal__header">
+          <h1 class="modal__title">Song Intro Quiz!!!</h1>
+          <p class="modal__text">
+            どのアーティストの曲でクイズをしましょうか！？入力してください！
+          </p>
+        </div>
+
+        <div class="modal__form">
+          <input
+            type="text"
+            value=""
+            placeholder="アーティスト名を入力　例）乃木坂46"
+            class="form-control"
+            id="artist-name"
+          />
+        </div>
+
+        <div class="modal__footer">
+          <button type="button" class="btn btn-primary" id="start">
+            クイズ開始
+          </button>
+        </div>
+      </div>
+    </div>
+    <!-- // モーダルここまで -->
+
+    <!-- 曲のカードと曲名 -->
+    <div class="song-card">
+      <div class="song-card__item">
+        <img
+          src="images/stamp10.png"
+          class="song-card__image"
+          width="240"
+          alt=""
+        />
+        <p class="song-card__name">文字文字</p>
+      </div>
+      <div class="song-card__item">
+        <img
+          src="images/stamp10.png"
+          class="song-card__image"
+          width="240"
+          alt=""
+        />
+        <p class="song-card__name">文字文字</p>
+      </div>
+      <div class="song-card__item">
+        <img
+          src="images/stamp10.png"
+          class="song-card__image"
+          width="240"
+          alt=""
+        />
+        <p class="song-card__name">文字文字</p>
+      </div>
+      <div class="song-card__item">
+        <img
+          src="images/stamp10.png"
+          class="song-card__image"
+          width="240"
+          alt=""
+        />
+        <p class="song-card__name">文字文字</p>
+      </div>
+    </div>
+    <!-- // 曲のカードと曲名ここまで -->
+
+    <audio src="" id="audio"></audio>
+
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/script.js"></script>
+  </body>
+</html>
