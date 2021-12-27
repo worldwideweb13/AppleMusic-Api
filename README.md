@@ -11,7 +11,6 @@ AppleのAPI認証が事前登録等なしに利用できるため、試しにプ
 AppleMusicApi
 https://developer.apple.com/documentation/applemusicapi/
 
-
 ### 開発の苦労した点
 苦労したポイントは大きく分けて以下の3点です。
 * 位置情報ゲームを成立させるためのゲームデザイン
