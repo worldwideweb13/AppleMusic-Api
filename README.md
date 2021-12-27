@@ -1,8 +1,7 @@
 # AppleMusic-Api
 
-* 制作期間： 2021年2月~４月　約６０日間
-* 使用技術： Unity,C#,immersal,Playfab,GoogleMapAPI,x-code
-* Unityバージョン: 2019.4.17f1
+* 制作期間： 2021年8月　2日間
+* 使用技術： JavaScript,HTML,CSS
 * プロダクト紹介映像: https://youtu.be/iDfVqCxDq7I
 
 ![3dImage](thumbnailImage.png)
