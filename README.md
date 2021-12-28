@@ -11,9 +11,11 @@ AppleのAPI認証が事前登録等なしに利用できるため、試しにプ
 AppleMusicApi
 https://developer.apple.com/documentation/applemusicapi/
 
-###　動作環境
+### 動作環境
 * index.htmlをブラウザで立ち上げれば、アプリは動作します。設定ファイル等の設定は入りません。
 * VsCode推奨。拡張機能でLiveServerをインストール。LiveServer経由でindex.htmlをブラウザで開くとアプリが動作します。
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
 
 ### アプリの遊び方
 1. 自分の好きなアーティスト名をモーダル画面で入力 
