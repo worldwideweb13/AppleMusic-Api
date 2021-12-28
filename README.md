@@ -12,7 +12,7 @@ AppleMusicApi
 https://developer.apple.com/documentation/applemusicapi/
 
 ### 動作環境
-* index.htmlをブラウザで立ち上げれば、アプリは動作します。設定ファイル等の設定は入りません。
+* [index.html](index.html)をブラウザで立ち上げれば、アプリは動作します。設定ファイル等の設定は入りません。
 * VsCode推奨。拡張機能でLiveServerをインストール。[LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)経由でindex.htmlをブラウザで開くとアプリが動作します。
 
 
