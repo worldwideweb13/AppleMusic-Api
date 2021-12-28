@@ -20,3 +20,4 @@ https://developer.apple.com/documentation/applemusicapi/
 
 ### その他
 関数、If文という基本的な文法とApiを組み合わせて、ミニゲームとして成立するアプリケーションに仕上げています。プログラミング初学者の最初のアプリ制作として、模写して頂いても勉強になると思います。
+アプリの挙動は[script.js](js/script.js)に記載してある内容でほぼ全てです。
