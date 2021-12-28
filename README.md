@@ -1,15 +1,19 @@
 # AppleMusic-Api
 
+### 概要
 * 制作期間： 2021年8月　2日間
 * 使用技術： JavaScript,HTML,CSS,Apple music API
 
 ![3dImage](thumbnailImage.png)
 
 
-### 概要
 AppleのAPI認証が事前登録等なしに利用できるため、試しにプロダクト開発をしてみました。検索条件欄にアーティスト名を入れると、検索されたアーティストの曲一覧から最初の4曲の曲名とアルバム画像を表示します。  
 AppleMusicApi
 https://developer.apple.com/documentation/applemusicapi/
+
+###　動作環境
+* index.htmlをブラウザで立ち上げれば、アプリは動作します。設定ファイル等の設定は入りません。
+* VsCode推奨。拡張機能でLiveServerをインストール。LiveServer経由でindex.htmlをブラウザで開くとアプリが動作します。
 
 ### アプリの遊び方
 1. 自分の好きなアーティスト名をモーダル画面で入力 
